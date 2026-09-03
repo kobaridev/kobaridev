@@ -1,3 +1,15 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=SideloadLabs&fontSize=50&fontColor=fff&animation=fadeIn&fontY=35" width="100%" />
+
+  <p><em>Enhancing your app experiences on iOS with tweaks :)</em></p>
+
+  <p>
+    <a href="https://github.com/SideloadLabs"><img src="https://img.shields.io/badge/GitHub-SideloadLabs-181717?style=flat-square&logo=github" alt="GitHub Organization"></a>
+    <img src="https://img.shields.io/badge/Platform-iOS-000000?style=flat-square&logo=apple" alt="Platform iOS">
+    <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status Active">
+  </p>
+</div>
+
 <h1 align="center">Hi there! I'm KoBariDev 👋 </h1>
 <h3 align="center">🚀 Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 <div>
@@ -25,4 +37,8 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kobaridev/kobaridev/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/kobaridev/kobaridev/output/github-contribution-grid-snake.svg" />
   </picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,11,6&height=100&section=footer" width="100%" />
 </div>
