@@ -5,7 +5,7 @@
 
   <p>
     <a href="https://github.com/kobaridev">
-      <img src="https://img.shields.io/badge/GitHub-SideloadLabs-181717?style=flat-square&logo=github" alt="GitHub Organization">
+      <img src="https://img.shields.io/badge/GitHub-KoBariDev-181717?style=flat-square&logo=github" alt="GitHub Organization">
     </a>
     <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status Active">
   </p>
