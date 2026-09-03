@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=KoBariDev&fontSize=50&fontColor=fff&animation=fadeIn&fontY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,24,30&height=180&section=header&text=KoBariDev&fontSize=50&fontColor=fff&animation=fadeIn&fontY=35" width="100%" />
 
   <p><em>🚀 Open Source Enthusiast ♥ | DevOps | Full Stack Learner 🚀</em></p>
 
@@ -12,8 +12,6 @@
 </div>
 
 <div align="left">
-  <img width="35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
-  
   <h3>👨🏻‍💻 关于我</h3>
 
   * 🤔 &nbsp; 探索新技术并持续更新博客模板。
@@ -21,6 +19,8 @@
   * 🌱 &nbsp; 深入学习后端架构与前端开发。
   * ✍️ &nbsp; 不断学习新兴技术，探索感兴趣的相关领域。
 </div>
+
+<br />
 
 ---
 
@@ -75,5 +75,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,24,30&height=100&section=footer" width="100%" />
 </div>
