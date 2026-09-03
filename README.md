@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=SideloadLabs&fontSize=50&fontColor=fff&animation=fadeIn&fontY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Hi there! I'm KoBariDev 👋&fontSize=50&fontColor=fff&animation=fadeIn&fontY=35" width="100%" />
 
-  <p><em>Enhancing your app experiences on iOS with tweaks :)</em></p>
+  <p><em>🚀 Open Source ♥ | Devops | Competitive Programmer  🚀</em></p>
 
   <p>
     <a href="https://github.com/SideloadLabs"><img src="https://img.shields.io/badge/GitHub-SideloadLabs-181717?style=flat-square&logo=github" alt="GitHub Organization"></a>
@@ -9,9 +9,6 @@
     <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status Active">
   </p>
 </div>
-
-<h1 align="center">Hi there! I'm KoBariDev 👋 </h1>
-<h3 align="center">🚀 Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
